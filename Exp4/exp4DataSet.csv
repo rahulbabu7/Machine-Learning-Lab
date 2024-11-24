@@ -1,0 +1,13 @@
+Swim,Fly,Crawl,ClassLabel
+fast,no,no,fish
+fast,no,yes,animal
+slow,no,no,animal
+fast,no,no,animal
+no,short,no,bird
+no,short,no,bird
+no,rarely,no,animal
+slow,no,yes,animal
+slow,no,no,fish
+slow,no,yes,fish
+no,long,no,bird
+fast,no,no,bird
